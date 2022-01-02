@@ -9,7 +9,7 @@ I am interested in data analysis, machine learning, I take various courses in ML
 
 
 I have been developing desktop applications.
-in Delphi / C #, Android, Backend development.
+in Delphi/C#, Android, Backend development (С#, NodeJS).
 
 Worked with databases: MS SQL, Oracle, MongoDB
 
@@ -27,7 +27,7 @@ HTML5, CSS3
 
 JavaScript, NodeJS, Express, Leaflet, Plotly
 
-Basic knowledge of C ++, Java, C # .NET, WPF
+Core knowledge of C ++, Java, C # .NET, WPF
 
 As part of the study of data analysis, ML / DL used Python, TensorFlow, Keras, PyTorch, CatBoost, Pandas, NumPy, SciPy, Jupiter Notebook.
 Working with tabular data (regression, clustering), images.
@@ -43,9 +43,14 @@ OmSU (Bachelor's) 2017-2021 Informatics and computer engineering
 OmSU (Master's)  2021-2023 Informatics and computer engineering
 
 **Courses:**
-https://www.dlschool.org/ (DLS1, DLS2)
+
+https://www.dlschool.org/ (DLS1 (CV), DLS2 (NLP))
+
 https://dlcourse.ai/
+
 Various courses on Stepik.org platform
+
+Various courses about ML/DL in University
 
 **Hacks / Comps:**
 
@@ -53,7 +58,7 @@ few hackaton's (data-analysis project (Tabular data, GIS visualization))
 
 few times: vk.com - vezdekod
 
-RuCode (last time in top-7 in one track)
+RuCode (last time in 7th place in one track)
 
 IDAO ML BootCamp 2021 (4th place)
 
