@@ -30,9 +30,13 @@ As part of the study of data analysis, ML / DL used Python, TensorFlow, Keras, P
 Working with tabular data (regression, clustering), images.
 
 **Education:**
+
 Art Studio Painting, Graphic design, CGI ... - 2014
+
 OmPEC (Associate) 2014-2017 Applied Informatics in Economics
+
 OmSU (Bachelor's) 2017-2021 Informatics and computer engineering
+
 OmSU (Master's)  2021-2023 Informatics and computer engineering
 
 **Courses:**
