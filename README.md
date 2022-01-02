@@ -14,10 +14,13 @@ in Delphi / C #, Android, Backend development.
 Worked with databases: MS SQL, Oracle, MongoDB
 
 Writing Unit tests
+
 Using Git
+
 Bash, CMD
 
 Technologies:
+
 Android, Kotlin, OkHttp, HTTP, REST, JSON.
 
 HTML5, CSS3
@@ -45,11 +48,17 @@ https://dlcourse.ai/
 Various courses on Stepik.org platform
 
 **Hacks / Comps:**
+
 few hackaton's (data-analysis project (Tabular data, GIS visualization))
+
 few times: vk.com - vezdekod
+
 RuCode (last time in top-7 in one track)
+
 IDAO ML BootCamp 2021 (4th place)
+
 Y-Professional AI qual round
+
 
 **Interests:**
 
@@ -58,14 +67,20 @@ Machine learning / Deep learning / Backend, Android development
 **Main projects:**
 
 Desktop CRM application for database (Associate)
+
 Android application for recording sensor's data and streaming to server
+
 Data analysis on sensor's data (TF, Keras, LSTM, Visualization)
+
 Data analysis - Weather data (Assessment of the impact of city heat)
+
 
 **Links:**
 
 https://gitlab.com/DmSokolov
+
 https://github.com/dimka11
+
 https://gitlab.com/dimkoss11
 
 https://www.kaggle.com/dimka11
