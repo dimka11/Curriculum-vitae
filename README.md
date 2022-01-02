@@ -52,6 +52,8 @@ Various courses on Stepik.org platform
 
 Various courses about ML/DL in University
 
+Various courses on https://ods.ai/ platform
+
 **Hacks / Comps:**
 
 few hackaton's (data-analysis project (Tabular data, GIS visualization))
