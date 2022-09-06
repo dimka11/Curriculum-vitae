@@ -19,7 +19,7 @@ Using Git
 
 Bash, CMD
 
-fundamental Docker
+Docker basics
 
 Technologies:
 
@@ -56,11 +56,11 @@ https://dlcourse.ai/
 
 Various courses on Stepik.org platform
 
-Various courses about ML/DL in University
+Various courses about ML/DL in the local University
 
 Various courses on https://ods.ai/ platform
 
-Various courses on Coursera (MIPT DS, How to win in ds comps, and few other )
+Various courses on Coursera (MIPT DS, How to win in ds comps, and few other)
 
 **Hacks / Comps:**
 
